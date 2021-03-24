@@ -1,1 +1,1 @@
-Udacity Second Project
+Udacity Nanodegree Second Project
